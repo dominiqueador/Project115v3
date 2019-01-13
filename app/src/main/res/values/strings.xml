@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Project115v3</string>
+
+    <string name="welcome">AndroidBegin - Android Button Click New Activity Example</string>
+    <string name="menu_settings">Settings</string>
+    <string name="Button">Button</string>
+    <string name="name">Name</string>
+    <string name="add">Address</string>
+    <string name="cont">Contact Number</string>
+
+    <string name="sbfrap">Strawberry Frappe</string>
+
+    <string name="dapitan">Starbucks - Dapitan</string>
+    <string name="noval">Starbucks - Padre Noval</string>
+    <string name="espana">Starbucks - Espana Blvd</string>
+
+    <string name="cash">Cash</string>
+    <string name="debit">Debit Card</string>
+    <string name="credit">Credit Card</string>
+
+    <string name="button_text">Send</string>
+</resources>
